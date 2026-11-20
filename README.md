@@ -1,6 +1,6 @@
 # Project Euler
 
-Python solutions to the freeCodeCamp Project Euler problems. A problem is added here after I complete its challenge and we discuss it.
+Python solutions to the freeCodeCamp Project Euler problems.
 
 ## Progress
 
